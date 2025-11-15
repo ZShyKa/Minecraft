@@ -1,0 +1,271 @@
+[13:53:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[13:53:50] [ServerMain/INFO]: Loaded 1461 recipes
+[13:53:50] [ServerMain/INFO]: Loaded 1574 advancements
+[13:53:51] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[13:53:51] [Server thread/INFO]: Loading properties
+[13:53:51] [Server thread/INFO]: Default game type: SURVIVAL
+[13:53:51] [Server thread/INFO]: Generating keypair
+[13:53:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:53:51] [Server thread/INFO]: Using epoll channel type
+[13:53:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:53:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:53:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:53:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:53:51] [Server thread/INFO]: Preparing level "world"
+[13:53:51] [Server thread/INFO]: Loading 0 persistent chunks...
+[13:53:51] [Server thread/INFO]: Preparing spawn area: 100%
+[13:53:51] [Server thread/INFO]: Time elapsed: 15 ms
+[13:53:51] [Server thread/INFO]: Done (0.279s)! For help, type "help"
+[13:54:19] [Server thread/INFO]: ZShiKa[/127.21.100.254:52765] logged in with entity id 35 at (-100576.90856005617, 64.0, 31293.06338080966)
+[13:54:19] [Server thread/INFO]: ZShiKa joined the game
+[13:54:44] [Server thread/INFO]: nhism2031[/127.9.142.191:36859] logged in with entity id 295 at (-100557.96961244837, 67.0, 31271.67440511055)
+[13:54:44] [Server thread/INFO]: nhism2031 joined the game
+[13:59:52] [Server thread/INFO]: ZShiKa has made the advancement [The Parrots and the Bats]
+[14:04:30] [Server thread/INFO]: nhism2031 lost connection: Timed out
+[14:04:30] [Server thread/INFO]: nhism2031 left the game
+[14:04:30] [Server thread/WARN]: handleDisconnection() called twice
+[14:04:53] [Server thread/INFO]: nhism2031[/127.9.142.191:33045] logged in with entity id 2557 at (-100550.45726252777, 65.0, 31261.739470390352)
+[14:04:53] [Server thread/INFO]: nhism2031 joined the game
+[14:31:27] [Server thread/INFO]: ZShiKa was slain by Zombie
+[14:34:15] [Server thread/INFO]: ZShiKa drowned
+[14:48:44] [Server thread/INFO]: Duzgu[/127.29.19.161:50011] logged in with entity id 12267 at (-100588.76249998808, 65.0, 31293.111368243655)
+[14:48:44] [Server thread/INFO]: Duzgu joined the game
+[15:01:56] [Server thread/INFO]: ZShiKa tried to swim in lava
+[15:02:48] [Server thread/INFO]: ZShiKa tried to swim in lava
+[15:03:03] [Server thread/INFO]: Duzgu has made the advancement [Take Aim]
+[15:03:06] [Server thread/INFO]: ZShiKa tried to swim in lava
+[15:04:04] [Server thread/INFO]: ZShiKa was burned to a crisp while fighting Magma Cube
+[15:09:27] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to ZShiKa]
+[15:11:07] [Server thread/INFO]: nhism2031 has made the advancement [We Need to Go Deeper]
+[15:11:44] [Server thread/INFO]: ZShiKa tried to swim in lava
+[15:14:08] [Server thread/INFO]: ZShiKa was doomed to fall
+[15:16:41] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[15:20:02] [Server thread/INFO]: ZShiKa has made the advancement [Oh Shiny]
+[15:24:28] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to -12708.500000, 81.000000, 3611.500000]
+[15:24:36] [Server thread/INFO]: [Not Secure] <ZShiKa> -12709 ~ 3611
+[15:24:45] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to ZShiKa]
+[15:25:04] [Server thread/INFO]: [ZShiKa: Set own game mode to Spectator Mode]
+[15:25:12] [Server thread/INFO]: [ZShiKa: Set own game mode to Survival Mode]
+[15:25:21] [Server thread/INFO]: nhism2031 has made the advancement [A Terrible Fortress]
+[15:25:21] [Server thread/INFO]: ZShiKa has made the advancement [A Terrible Fortress]
+[15:26:20] [Server thread/INFO]: nhism2031 has made the advancement [Into Fire]
+[15:27:35] [Server thread/INFO]: ZShiKa has made the advancement [Into Fire]
+[15:28:03] [Server thread/INFO]: ZShiKa was fireballed by Blaze
+[15:28:08] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[15:28:16] [Server thread/INFO]: Duzgu has made the advancement [Oh Shiny]
+[15:28:47] [Server thread/INFO]: ZShiKa was fireballed by Blaze
+[15:28:50] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[15:29:03] [Server thread/INFO]: Duzgu lost connection: Timed out
+[15:29:03] [Server thread/INFO]: Duzgu left the game
+[15:29:08] [Server thread/INFO]: Duzgu[/127.29.19.161:58683] logged in with entity id 24270 at (-12699.77143436278, 74.0, 3540.080831439604)
+[15:29:08] [Server thread/INFO]: Duzgu joined the game
+[15:29:13] [Server thread/INFO]: Duzgu has made the advancement [A Terrible Fortress]
+[15:29:25] [Server thread/INFO]: [Not Secure] <ZShiKa> -12709 ~ 3611
+[15:32:16] [Server thread/INFO]: Duzgu has made the advancement [Into Fire]
+[15:32:50] [Server thread/INFO]: nhism2031 withered away
+[15:32:59] [Server thread/INFO]: [Not Secure] <ZShiKa> -12496 ~ 3200
+[15:33:17] [Server thread/INFO]: nhism2031 has made the advancement [A Seedy Place]
+[15:34:02] [Server thread/INFO]: nhism2031 has made the advancement [The Parrots and the Bats]
+[15:34:35] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to ZShiKa]
+[15:35:04] [Server thread/INFO]: ZShiKa was slain by Enderman
+[15:35:07] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[15:37:37] [Server thread/INFO]: [ZShiKa: Set own game mode to Spectator Mode]
+[15:37:54] [Server thread/INFO]: [ZShiKa: Set own game mode to Survival Mode]
+[15:38:09] [Server thread/INFO]: nhism2031 was slain by Zombified Piglin
+[15:38:17] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to ZShiKa]
+[15:39:20] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[15:39:44] [Server thread/INFO]: [Duzgu: Teleported Duzgu to nhism2031]
+[15:41:08] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to ZShiKa]
+[15:41:13] [Server thread/INFO]: ZShiKa has made the advancement [Those Were the Days]
+[15:41:14] [Server thread/INFO]: nhism2031 has made the advancement [Those Were the Days]
+[15:41:18] [Server thread/INFO]: Duzgu has made the advancement [Those Were the Days]
+[15:41:55] [Server thread/INFO]: ZShiKa has made the advancement [War Pigs]
+[15:42:30] [Server thread/INFO]: ZShiKa was slain by Piglin Brute
+[15:42:34] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[15:42:39] [Server thread/INFO]: Duzgu was slain by Piglin Brute
+[15:42:44] [Server thread/INFO]: [Duzgu: Teleported Duzgu to nhism2031]
+[15:42:50] [Server thread/INFO]: Duzgu was slain by Piglin Brute
+[15:42:52] [Server thread/INFO]: nhism2031 burned to death
+[15:43:01] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to ZShiKa]
+[15:43:02] [Server thread/INFO]: [Duzgu: Teleported Duzgu to nhism2031]
+[15:46:40] [Server thread/INFO]: ZShiKa fell from a high place
+[15:46:47] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[15:47:51] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to ZShiKa]
+[15:48:33] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[15:48:36] [Server thread/INFO]: [Duzgu: Teleported Duzgu to nhism2031]
+[15:49:09] [Server thread/INFO]: [ZShiKa: Set own game mode to Spectator Mode]
+[15:49:38] [Server thread/INFO]: [Duzgu: Teleported Duzgu to nhism2031]
+[15:49:53] [Server thread/INFO]: [ZShiKa: Set own game mode to Survival Mode]
+[15:49:56] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[15:49:57] [Server thread/INFO]: [Duzgu: Teleported Duzgu to nhism2031]
+[15:50:08] [Server thread/INFO]: ZShiKa was killed
+[15:50:08] [Server thread/INFO]: [ZShiKa: Killed ZShiKa]
+[15:50:38] [Server thread/INFO]: [Duzgu: Teleported Duzgu to nhism2031]
+[15:51:09] [Server thread/INFO]: nhism2031 was slain by Magma Cube
+[15:51:15] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to Duzgu]
+[15:51:36] [Server thread/INFO]: Duzgu tried to swim in lava
+[15:51:53] [Server thread/INFO]: nhism2031 has made the advancement [Oh Shiny]
+[15:52:22] [Server thread/INFO]: [Duzgu: Teleported Duzgu to nhism2031]
+[15:52:36] [Server thread/INFO]: Duzgu has made the advancement [Who is Cutting Onions?]
+[15:53:15] [Server thread/INFO]: Duzgu was doomed to fall by Zombified Piglin
+[15:53:32] [Server thread/INFO]: [Duzgu: Teleported Duzgu to nhism2031]
+[15:54:12] [Server thread/INFO]: nhism2031 has made the advancement [Who is Cutting Onions?]
+[15:54:13] [Server thread/INFO]: nhism2031 has made the advancement [Ice Bucket Challenge]
+[15:54:50] [Server thread/INFO]: nhism2031 was slain by Enderman
+[15:54:58] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to Duzgu]
+[15:55:44] [Server thread/INFO]: ZShiKa lost connection: Timed out
+[15:55:44] [Server thread/INFO]: ZShiKa left the game
+[15:55:47] [Server thread/INFO]: nhism2031 lost connection: Timed out
+[15:55:47] [Server thread/INFO]: nhism2031 left the game
+[15:56:35] [Server thread/INFO]: nhism2031[/127.9.142.191:50011] logged in with entity id 31533 at (-12505.807182270326, 53.0, 3208.9932839779267)
+[15:56:35] [Server thread/INFO]: nhism2031 joined the game
+[16:00:51] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to Duzgu]
+[16:07:54] [Server thread/INFO]: Duzgu was killed
+[16:07:54] [Server thread/INFO]: [Duzgu: Killed Duzgu]
+[16:08:38] [Server thread/INFO]: Duzgu has made the advancement [Stay Hydrated!]
+[16:10:46] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to Duzgu]
+[16:21:15] [Server thread/INFO]: ZShiKa[/127.21.100.254:55681] logged in with entity id 35776 at (-12565.733992245474, 84.0, 3909.855922198079)
+[16:21:15] [Server thread/INFO]: ZShiKa joined the game
+[16:22:09] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-100577, y=64, z=31289} ja{x=-100577, y=62, z=31288}
+[16:22:09] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-100577, y=64, z=31289} ja{x=-100577, y=62, z=31288}
+[16:24:53] [Server thread/INFO]: [Not Secure] <Duzgu> wwww
+[16:25:06] [Server thread/INFO]: Duzgu has made the advancement [Cover Me with Diamonds]
+[16:25:10] [Server thread/INFO]: ZShiKa lost connection: Disconnected
+[16:25:10] [Server thread/INFO]: ZShiKa left the game
+[16:25:22] [Server thread/INFO]: nhism2031 lost connection: You logged in from another location
+[16:25:22] [Server thread/INFO]: nhism2031 left the game
+[16:25:41] [Server thread/INFO]: nhism2031 (c1457e60-958c-3fda-abe3-80c43f1ff251) lost connection: Disconnected
+[16:25:44] [Server thread/INFO]: nhism2031[/127.9.142.191:40765] logged in with entity id 36981 at (-100588.5, 64.0, 31289.5)
+[16:25:44] [Server thread/INFO]: nhism2031 joined the game
+[16:25:52] [Server thread/INFO]: nhism2031 (/127.9.142.191:36301) lost connection: Timed out
+[16:26:16] [Server thread/INFO]: ZShiKa[/127.21.100.254:40431] logged in with entity id 37072 at (-100588.5, 64.0, 31293.5)
+[16:26:16] [Server thread/INFO]: ZShiKa joined the game
+[16:27:59] [Server thread/INFO]: nhism2031 lost connection: Timed out
+[16:27:59] [Server thread/INFO]: nhism2031 left the game
+[16:28:01] [Server thread/INFO]: ZShiKa lost connection: Timed out
+[16:28:01] [Server thread/INFO]: ZShiKa left the game
+[16:28:46] [Server thread/INFO]: nhism2031[/127.9.142.191:47971] logged in with entity id 37439 at (-100587.40861808791, 64.5625, 31291.999904607335)
+[16:28:46] [Server thread/INFO]: nhism2031 joined the game
+[16:33:33] [Server thread/INFO]: [Duzgu: Gamerule randomTickSpeed is now set to: 500]
+[16:33:51] [Server thread/INFO]: [Duzgu: Gamerule randomTickSpeed is now set to: 7]
+[16:34:43] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to -21599.500000, 80.000000, 10200.500000]
+[16:36:14] [Server thread/INFO]: nhism2031 has made the advancement [Eye Spy]
+[16:42:38] [Server thread/INFO]: nhism2031 has made the advancement [Cover Me with Diamonds]
+[16:45:26] [Server thread/INFO]: nhism2031 has made the advancement [Take Aim]
+[17:00:33] [Server thread/INFO]: ZShiKa[/127.21.100.254:47637] logged in with entity id 50687 at (-100585.0303279455, 66.0, 31296.29791956944)
+[17:00:33] [Server thread/INFO]: ZShiKa joined the game
+[17:00:39] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:00:40] [Server thread/INFO]: ZShiKa has made the advancement [Eye Spy]
+[17:00:52] [Server thread/INFO]: [ZShiKa: Set own game mode to Spectator Mode]
+[17:01:05] [Server thread/INFO]: [ZShiKa: Set own game mode to Survival Mode]
+[17:01:29] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to ZShiKa]
+[17:01:37] [Server thread/INFO]: [ZShiKa: Teleported Duzgu to ZShiKa]
+[17:01:37] [Server thread/INFO]: Duzgu has made the advancement [Eye Spy]
+[17:01:43] [Server thread/INFO]: [ZShiKa: Teleported nhism2031 to ZShiKa]
+[17:03:54] [Server thread/INFO]: nhism2031 has made the advancement [The End?]
+[17:03:55] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[17:03:55] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[17:03:55] [Server thread/INFO]: Duzgu has made the advancement [The End?]
+[17:03:56] [Server thread/INFO]: ZShiKa has made the advancement [The End?]
+[17:04:45] [Server thread/INFO]: ZShiKa was doomed to fall by Ender Dragon
+[17:04:53] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:06:19] [Server thread/INFO]: ZShiKa was killed by Ender Dragon using magic
+[17:06:29] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:06:41] [Server thread/INFO]: nhism2031 fell from a high place
+[17:06:54] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to Duzgu]
+[17:07:42] [Server thread/INFO]: nhism2031 was slain by Enderman
+[17:07:51] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to Duzgu]
+[17:07:51] [Server thread/INFO]: ZShiKa was killed by Ender Dragon using magic
+[17:08:01] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:09:30] [Server thread/INFO]: ZShiKa was killed by Ender Dragon using magic
+[17:09:39] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:11:14] [Server thread/INFO]: nhism2031 has made the advancement [Free the End]
+[17:11:22] [Server thread/INFO]: ZShiKa was slain by Enderman
+[17:11:25] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:12:01] [Server thread/INFO]: nhism2031 has reached the goal [The Next Generation]
+[17:12:55] [Server thread/INFO]: Duzgu has made the advancement [Remote Getaway]
+[17:13:04] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to nhism2031]
+[17:13:10] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to Duzgu]
+[17:15:26] [Server thread/INFO]: nhism2031 fell out of the world
+[17:15:32] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to Duzgu]
+[17:17:28] [Server thread/INFO]: Duzgu has made the advancement [The City at the End of the Game]
+[17:18:12] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:18:18] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to Duzgu]
+[17:18:19] [Server thread/INFO]: nhism2031 has made the advancement [The City at the End of the Game]
+[17:19:46] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:19:48] [Server thread/INFO]: ZShiKa has made the advancement [The City at the End of the Game]
+[17:20:09] [Server thread/INFO]: ZShiKa was slain by Shulker
+[17:20:22] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to Duzgu]
+[17:20:59] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:21:41] [Server thread/INFO]: nhism2031 was slain by Enderman
+[17:21:45] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to Duzgu]
+[17:23:09] [Server thread/INFO]: Duzgu fell out of the world
+[17:23:18] [Server thread/INFO]: [Duzgu: Teleported Duzgu to nhism2031]
+[17:24:29] [Server thread/INFO]: Duzgu fell out of the world
+[17:24:34] [Server thread/INFO]: [Duzgu: Teleported Duzgu to nhism2031]
+[17:25:16] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to Duzgu]
+[17:25:48] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to Duzgu]
+[17:27:05] [Server thread/INFO]: ZShiKa lost connection: Timed out
+[17:27:05] [Server thread/INFO]: ZShiKa left the game
+[17:27:05] [Server thread/INFO]: nhism2031 lost connection: Timed out
+[17:27:05] [Server thread/INFO]: nhism2031 left the game
+[17:27:44] [Server thread/INFO]: nhism2031 (/127.9.142.191:33921) lost connection: Timed out
+[17:27:50] [Server thread/INFO]: nhism2031[/127.9.142.191:57285] logged in with entity id 58872 at (-271.3637294446863, 56.0, -1855.9986340931603)
+[17:27:50] [Server thread/INFO]: nhism2031 joined the game
+[17:27:54] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to Duzgu]
+[17:28:15] [Server thread/INFO]: ZShiKa[/127.21.100.254:33801] logged in with entity id 58976 at (-564.3000000119209, 64.0, -1265.685511451738)
+[17:28:15] [Server thread/INFO]: ZShiKa joined the game
+[17:28:18] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:29:01] [Server thread/INFO]: ZShiKa was slain by Shulker
+[17:29:10] [Server thread/INFO]: [Duzgu: Teleported Duzgu to nhism2031]
+[17:29:35] [Server thread/INFO]: nhism2031 has reached the goal [Sky's the Limit]
+[17:30:14] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:30:23] [Server thread/INFO]: ZShiKa has made the advancement [Cover Me with Diamonds]
+[17:30:49] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to Duzgu]
+[17:33:02] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:33:28] [Server thread/INFO]: Duzgu has completed the challenge [Great View From Up Here]
+[17:34:06] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to Duzgu]
+[17:35:13] [Server thread/INFO]: nhism2031 fell from a high place
+[17:35:51] [Server thread/INFO]: [nhism2031: Teleported nhism2031 to Duzgu]
+[17:38:00] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:38:02] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:38:03] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:38:04] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:38:05] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:38:06] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:38:07] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:38:08] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:38:10] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to Duzgu]
+[17:38:11] [Server thread/INFO]: ZShiKa fell from a high place
+[17:38:14] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to Duzgu]
+[17:38:23] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to Duzgu]
+[17:38:25] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to Duzgu]
+[17:40:06] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to Duzgu]
+[17:40:14] [Server thread/INFO]: ZShiKa fell from a high place
+[17:40:16] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to Duzgu]
+[17:43:34] [Server thread/INFO]: Duzgu was doomed to fall by Shulker
+[17:43:45] [Server thread/INFO]: [Duzgu: Teleported Duzgu to nhism2031]
+[17:43:48] [Server thread/INFO]: [Duzgu: Teleported Duzgu to nhism2031]
+[17:43:48] [Server thread/INFO]: Duzgu fell from a high place
+[17:43:52] [Server thread/INFO]: [Duzgu: Teleported Duzgu to nhism2031]
+[17:44:03] [Server thread/INFO]: Duzgu has reached the goal [Sky's the Limit]
+[17:45:16] [Server thread/INFO]: [ZShiKa: Teleported ZShiKa to nhism2031]
+[17:45:36] [Server thread/INFO]: nhism2031 lost connection: Timed out
+[17:45:36] [Server thread/INFO]: nhism2031 left the game
+[17:45:46] [Server thread/INFO]: ZShiKa lost connection: Timed out
+[17:45:46] [Server thread/INFO]: ZShiKa left the game
+[17:46:24] [Server thread/INFO]: nhism2031[/127.9.142.191:49227] logged in with entity id 63606 at (230.61389537474275, 62.0, -2753.8203642212366)
+[17:46:24] [Server thread/INFO]: nhism2031 joined the game
+[17:46:54] [Server thread/INFO]: ZShiKa[/127.21.100.254:41905] logged in with entity id 63684 at (232.92213213075456, 62.0, -2752.098093661258)
+[17:46:54] [Server thread/INFO]: ZShiKa joined the game
+[17:47:18] [Server thread/INFO]: [Not Secure] <nhism2031> co thuoc sung khong
+[17:48:42] [Server thread/INFO]: nhism2031 was killed
+[17:48:42] [Server thread/INFO]: [nhism2031: Killed nhism2031]
+[17:51:03] [Server thread/INFO]: nhism2031 lost connection: Disconnected
+[17:51:03] [Server thread/INFO]: nhism2031 left the game
+[17:51:03] [Server thread/INFO]: Duzgu lost connection: Disconnected
+[17:51:03] [Server thread/INFO]: Duzgu left the game
+[17:51:07] [Server thread/INFO]: ZShiKa was slain by Enderman
+[17:52:58] [Server thread/INFO]: ZShiKa lost connection: Disconnected
+[17:52:58] [Server thread/INFO]: ZShiKa left the game
+[17:53:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
